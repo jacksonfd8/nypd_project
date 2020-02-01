@@ -2,10 +2,10 @@
 Creating actionable insights for the NYPD with data modeling techniques.
 - Data Imputation and Exploratory Data Analysis performed
 - Algorithms explored to compare and contrast accuracy scores:
-** Clustering
-** K-Nearest Neighbors (KNNs)
-** Random Forest
-** Support Vector Machines (SVMs)
+  * Clustering
+  * K-Nearest Neighbors (KNNs)
+  * Random Forest
+  * Support Vector Machines (SVMs)
 
 
 ## Data Description
