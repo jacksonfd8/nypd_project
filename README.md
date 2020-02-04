@@ -4,6 +4,7 @@ Creating actionable insights for the NYPD with data modeling techniques.
 - Algorithms explored to compare and contrast accuracy scores:
   * Clustering
   * K-Nearest Neighbors (KNNs)
+  * Logistic Regression
   * Random Forest
   * Support Vector Machines (SVMs)
 
