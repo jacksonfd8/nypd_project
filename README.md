@@ -50,7 +50,7 @@ Looking at historical NYPD data, *only* 7%, on average, of suspected criminals w
 | city        | LOCATION OF STOP CITY                                      | Nominal   |
 | addrpct     | LOCATION OF STOP ADDRESS PRECINCT                          | Nominal   |
 
-#### Exploratory Data Analysis + Baseline 
+### Exploratory Data Analysis + Baseline 
 - file_name: [EDA_Baseline Model](https://github.com/jacksonfd8/nypd_project/blob/master/EDA_Baseline%20Model.ipynb)
 
 **Technical Scope:**
