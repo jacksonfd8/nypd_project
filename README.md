@@ -1,13 +1,16 @@
-# nypd_project
-Creating actionable insights for the NYPD with data modeling techniques.
-- Data Imputation and Exploratory Data Analysis performed
-- Algorithms explored to compare and contrast accuracy scores:
-  * Clustering
-  * K-Nearest Neighbors (KNNs)
-  * Logistic Regression
-  * Random Forest
-  * Support Vector Machines (SVMs)
+# Designing a resource allocation plan for the NYPD
 
+## Overview
+Looking at historical NYPD data, *only* 7%, on average, of suspected criminals were arrested. This means 90%+ of their time is wasted. Using data science, I help the NYPD identify factors that would likely lead to arrest and ultimately, help them use their time more efficiently.
+
+## Summary of Results
+- **Powerpoint presentation:** link
+
+## Project Design
+- Define the problem: Can we utilize historical data to discover *better* strategies?
+- Dig into the data: I perform exploratory data analysis for initial insights
+- Develop a solution: I create multiple models to accurately predict arrests. I build clusters for criminals who make up most of the arrests.
+- Deploy solution: I provide the solution to the NYPD, which will increase their 7% efficiency to 80%.
 
 ## Data Description
 
@@ -46,3 +49,10 @@ Creating actionable insights for the NYPD with data modeling techniques.
 | build       | SUSPECT'S BUILD                                            | Nominal   |
 | city        | LOCATION OF STOP CITY                                      | Nominal   |
 | addrpct     | LOCATION OF STOP ADDRESS PRECINCT                          | Nominal   |
+
+#### Exploratory Data Analysis + Baseline 
+- file_name: [EDA_Baseline Model](https://github.com/jacksonfd8/nypd_project/blob/master/EDA_Baseline%20Model.ipynb)
+
+**Technical Scope:**
+- Exploratory data analysis is performed with the use of **Python** libraries: Pandas and Matplotlib
+- Baseline model is created with **sklearn** and **Logistic Regression*
