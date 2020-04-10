@@ -55,4 +55,16 @@ Looking at historical NYPD data, *only* 7% (on average) of suspected criminals w
 
 **Technical Scope:**
 - Exploratory data analysis is performed with the use of **Python** libraries: *Pandas, Seaborn, Matplotlib*
-- Baseline model is created with **sklearn** and **Logistic Regression*
+
+### Modeling (Classification Task)
+- file_name: [Classification](https://github.com/jacksonfd8/nypd_project/blob/master/Classification.ipynb)
+
+#### Technical Scope
+- Logistic Regression, Random Forests, k-Nearest Neighbors algorithms 
+
+### Further modeling (Clustering, PCA)
+- file_name: [Clustering_PCA](https://github.com/jacksonfd8/nypd_project/blob/master/Clustering_PCA.ipynb)
+
+#### Technical Scope
+- Clustering for segmentation
+- Principal Component Analysis (Dimension Reduction) for further segmentation analysis
