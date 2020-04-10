@@ -1,4 +1,4 @@
-# Designing a resource allocation plan for the NYPD
+# Designing a resource plan for the NYPD
 
 ## Overview
 Looking at historical NYPD data, *only* 7%, on average, of suspected criminals were arrested. This means 90%+ of their time is wasted. Using data science, I help the NYPD identify factors that would likely lead to arrest and ultimately, help them use their time more efficiently.
