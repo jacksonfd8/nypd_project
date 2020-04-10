@@ -13,10 +13,10 @@ Looking at historical NYPD data, *only* 7% (on average) of suspected criminals w
 - **Powerpoint presentation:** [LINK](https://github.com/jacksonfd8/nypd_project/blob/master/JAu_NYPD.pdf)
 
 ## Project Design
-- Define the problem: Can we utilize historical data to discover *better* strategies?
+- Define the problem: Can we utilize historical data to discover *better* strategies for the NYPD?
 - Dig into the data: I perform exploratory data analysis for initial insights
-- Develop a solution: I create multiple models to accurately predict arrests. I build clusters for criminals who make up most of the arrests.
-- Deploy solution: I provide the solution to the NYPD, which will increase their 7% efficiency to 80%.
+- Develop a solution: I create multiple models to predict arrests. I build clusters for criminals who make up most of the arrests.
+- Deploy solution: I provide the solution to the NYPD, which will increase their 7% efficiency to 82%.
 
 ## Data Description
 
