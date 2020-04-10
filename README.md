@@ -1,5 +1,11 @@
 # Designing a resource plan for the NYPD
 
+<p align="center">
+  <img />
+<img src="https://i.pinimg.com/originals/75/26/3b/75263bc805508fbda7d8bbbe90097c1e.jpg"/></div>
+</p>
+
+
 ## Overview
 Looking at historical NYPD data, *only* 7% (on average) of suspected criminals were arrested. This means 90%+ of the police force's time is wasted. Using data science, I help the NYPD identify factors that would likely lead to arrest and ultimately, help them use their time more efficiently.
 
@@ -61,7 +67,8 @@ Data cleaning, and fun visualizations to summarize the data
 - file_name: [Classification](https://github.com/jacksonfd8/nypd_project/blob/master/Classification.ipynb)
 
 #### Technical Scope
-- Logistic Regression, Random Forests, k-Nearest Neighbors algorithms 
+- Explored Logistic Regression, Random Forests, k-Nearest Neighbors algorithms 
+- Utilized Gradient Boosting to discover feature importance
 
 ### Further modeling (Clustering, PCA)
 Cluster analysis segments data into groups, so the NYPD understands what criminal “profiles” can look like.
@@ -71,3 +78,7 @@ I use dimension reduction technique, PCA, to summarize features in the data.
 #### Technical Scope
 - Clustering for segmentation
 - Principal Component Analysis (Dimension Reduction) for further segmentation analysis
+
+## Future Work
+- I intend on mining other cities' police department data to discover if there is a trend amongst crimes
+- It would be worthwhile to evaluate my recommendations by looking at future arrests post-deploy of strategies
