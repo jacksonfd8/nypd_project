@@ -51,6 +51,7 @@ Looking at historical NYPD data, *only* 7% (on average) of suspected criminals w
 | addrpct     | LOCATION OF STOP ADDRESS PRECINCT                          | Nominal   |
 
 ### Exploratory Data Analysis + Baseline 
+Data cleaning, and fun visualizations to summarize the data
 - file_name: [EDA](https://github.com/jacksonfd8/nypd_project/blob/master/Exploratory%20Data%20Analysis.ipynb)
 
 **Technical Scope:**
@@ -63,6 +64,8 @@ Looking at historical NYPD data, *only* 7% (on average) of suspected criminals w
 - Logistic Regression, Random Forests, k-Nearest Neighbors algorithms 
 
 ### Further modeling (Clustering, PCA)
+Cluster analysis segments data into groups, so the NYPD understands what criminal “profiles” can look like.
+I use dimension reduction technique, PCA, to summarize features in the data.
 - file_name: [Clustering_PCA](https://github.com/jacksonfd8/nypd_project/blob/master/Clustering_PCA.ipynb)
 
 #### Technical Scope
