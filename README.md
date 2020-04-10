@@ -1,7 +1,7 @@
 # Designing a resource plan for the NYPD
 
 <p align="center">
-  <img />
+  <img/>
 <img src="https://images.law.com/contrib/content/uploads/sites/389/2017/10/nypd-car-Article-201710062015.jpg"/></div>
 </p>
 
@@ -63,12 +63,34 @@ Data cleaning, and fun visualizations to summarize the data
 **Technical Scope:**
 - Exploratory data analysis is performed with the use of **Python** libraries: *Pandas, Seaborn, Matplotlib*
 
+<p align="center">
+  <img/>
+<img src="https://i.imgur.com/PPLUfMP.png"/></div>
+</p>
+
+<p align="center">
+  
+  <img/>
+<img src="https://i.imgur.com/KmgXQiE.png"/></div>
+</p>
+
+<p align="center">
+  <img/>
+<img src="https://i.imgur.com/qUqh2hR.png"/></div>
+</p>
+
 ### Modeling (Classification Task)
 - file_name: [Classification](https://github.com/jacksonfd8/nypd_project/blob/master/Classification.ipynb)
 
 #### Technical Scope
 - Explored Logistic Regression, Random Forests, k-Nearest Neighbors algorithms 
 - Utilized Gradient Boosting to discover feature importance
+
+<p align="center">
+  <img/>
+<img src="https://i.imgur.com/YpvPtAV.png"/></div>
+</p>
+
 
 ### Further modeling (Clustering, PCA)
 Cluster analysis segments data into groups, so the NYPD understands what criminal “profiles” can look like.
@@ -78,6 +100,24 @@ I use dimension reduction technique, PCA, to summarize features in the data.
 #### Technical Scope
 - Clustering for segmentation
 - Principal Component Analysis (Dimension Reduction) for further segmentation analysis
+
+<p align="center">
+  <img/>
+<img src="https://i.imgur.com/6zEu7Nt.png"/></div>
+</p>
+
+<p align="center">
+  <img/>
+<img src="https://i.imgur.com/q54bQgP.png"/></div>
+</p>
+
+<p align="center">
+  <img/>
+<img src="https://i.imgur.com/tJBfHG5.png"/></div>
+</p>
+
+## Summary of Results
+- **Powerpoint presentation:** [LINK](https://github.com/jacksonfd8/nypd_project/blob/master/JAu_NYPD.pdf)
 
 ## Future Work
 - I intend on mining other cities' police department data to discover if there is a trend amongst crimes
