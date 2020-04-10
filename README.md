@@ -10,7 +10,7 @@
 Looking at historical NYPD data, *only* 7% (on average) of suspected criminals were arrested. This means 90%+ of the police force's time is wasted. Using data science, I help the NYPD identify factors that would likely lead to arrest and ultimately, help them use their time more efficiently.
 
 ## Summary of Results
-- **Powerpoint presentation:** [link](https://github.com/jacksonfd8/nypd_project/blob/master/JAu_NYPD.pdf)
+- **Powerpoint presentation:** [LINK](https://github.com/jacksonfd8/nypd_project/blob/master/JAu_NYPD.pdf)
 
 ## Project Design
 - Define the problem: Can we utilize historical data to discover *better* strategies?
